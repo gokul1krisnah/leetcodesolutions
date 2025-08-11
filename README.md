@@ -9,14 +9,24 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0001-two-sum) |
+| [0389-find-the-difference](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Two Pointers
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0344-reverse-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0389-find-the-difference) |
+## Sorting
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
