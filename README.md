@@ -29,4 +29,16 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0389-find-the-difference) |
+## Math
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0258-add-digits) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
