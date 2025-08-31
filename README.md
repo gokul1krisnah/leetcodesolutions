@@ -14,6 +14,7 @@
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0389-find-the-difference) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/1960-check-if-the-sentence-is-pangram) |
