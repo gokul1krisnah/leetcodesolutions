@@ -1,10 +1,10 @@
 class Solution {
   bool isPalindrome(int x) {
-String word = x.toString();
+var word = x.toString();
 var reverse = word.split("").reversed.join();
-if(word == reverse){
+if (word == reverse){
     return true;
-} else {
+}else {
     return false;
 };
 
