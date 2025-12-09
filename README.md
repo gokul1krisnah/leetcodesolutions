@@ -48,4 +48,12 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0258-add-digits) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/gokul1krisnah/leetcodesolutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
